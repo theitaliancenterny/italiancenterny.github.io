@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Italian Center//Community Events//EN
+BEGIN:VEVENT
+UID:comedy-dinner-20261010@theitaliancenter.com
+DTSTAMP:20261008T160000Z
+DTSTART:20261010T220000Z
+DTEND:20261011T020000Z
+SUMMARY:Comedy Show & Dinner
+LOCATION:The Italian Center, 1195 Route 376, Wappingers Falls, NY 12590
+DESCRIPTION:Confirm availability and reservations with the center.
+END:VEVENT
+END:VCALENDAR
