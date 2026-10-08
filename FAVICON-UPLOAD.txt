@@ -1,0 +1,18 @@
+FAVICON UPDATE — ITALIAN CENTER
+
+1. Extract italian-center-favicon-update.zip.
+2. Upload its 11 HTML files to the ROOT of your GitHub repository, replacing the previous pages.
+3. Upload your custom favicon files to the same location as index.html:
+   apple-touch-icon.png
+   favicon-32x32.png
+   favicon-16x16.png
+   site.webmanifest
+   Also upload any additional images referenced by site.webmanifest.
+4. Keep the existing assets folder. The HTML pages still use assets/site.css for the larger fonts and header.
+5. Commit changes. Once GitHub Pages finishes publishing, refresh the website.
+
+The custom icon files are not in this ZIP because they were not attached in chat. No replacement or placeholder icons have been created.
+
+All 11 page headers now contain the provided favicon links with relative paths, so they work under https://theitaliancenterny.github.io/italiancenterny.github.io/.
+
+If your site.webmanifest contains paths starting with '/', adjust them for the project folder. Icon src paths can be relative to the manifest, such as favicon-32x32.png. For a project-local app, start_url and scope can be './'. The actual manifest contents were not available for review.
